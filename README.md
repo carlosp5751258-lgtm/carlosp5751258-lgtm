@@ -1,6 +1,6 @@
 # Ctrl+IA · Herramientas gratis para programar con IA, en español
 
-**[https://carlosp5751258-lgtm.github.io/ctrlia/](https://carlosp5751258-lgtm.github.io/ctrlia/)**: hooks, skills, plantillas, workflows y scripts para Claude Code. Gratis y de código abierto (MIT).
+**[https://ctrlia.dev/](https://ctrlia.dev/)**: hooks, skills, plantillas, workflows y scripts para Claude Code. Gratis y de código abierto (MIT).
 
 | Herramienta | Qué hace |
 |---|---|
